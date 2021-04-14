@@ -36,7 +36,7 @@
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 ✔ I’m currently learning **Django** & **OS and DBMS**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
+✔ I’m looking for help for learning **Deep Learning**<br>
 ✔ I have just started writing articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/saketsug18ee/practice/) <br>
 ✔ I use to write coad on [leetcode](https://leetcode.com/Struth-129/),[codechef](https://www.codechef.com/users/saket_129),[codeforces](https://codeforces.com/profile/Noobie_129) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
